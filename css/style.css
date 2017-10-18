@@ -8,13 +8,29 @@ border: 10px solid #000000;
 border-color: -webkit-linear-gradient(top, #1e5799 0%,#2989d8 50%,#207cca 51%,#7db9e8 100%); 
 
 }
+
 body{
-    padding: 30px;
+    padding: 15px;
     background-color: rgb(240, 240, 240) ;
 }
 h4{
     color: #767D82;
+    padding-bottom: 10px;
 }
 .subTitle{
     color: #4F6C8D;
 }
+
+.home-section{
+    /* border: 3px solid #67C2AC; */
+    border-left: 10px solid #67C2AC;
+    padding: 15px;
+}
+.ui-img{
+    height:150px; 
+    box-shadow: 0 1px 6px 0 rgba(0,0,0,0.20);
+}
+.link{
+    color: #144669;
+}
+
