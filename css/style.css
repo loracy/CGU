@@ -47,4 +47,18 @@ h4{
 .link{
     color: #144669;
 }
+
+.ps{
+    margin-top:10px;
+    padding: 5px;
+    background-color: rgb(250,250,250);
+    border-radius: 10px;
+}
+.ps-title{
+    color: #767D82;
+    font-weight: 500;
+}
+.ps-content{
+    color: #A3ADB4;
+}
 /* edit~~~~~ */
