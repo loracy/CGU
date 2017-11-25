@@ -38,10 +38,15 @@ h4{
 }
 .component-section{
     
-        border-left: 10px solid #A3ADB4;
-        padding: 15px;
+    border-left: 10px solid #A3ADB4;
+    padding: 15px;
 
-    }
+}
+.healthyInfo-section{
+    border-left: 10px solid #4F6C8D;
+    padding: 15px;
+    margin-top: 30px;
+}
 
 .ui-img{
     height:150px; 
