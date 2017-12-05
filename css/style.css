@@ -24,6 +24,11 @@ h4{
     color:#67C2AC;
 }
 
+.login-section{
+    border-left: 10px solid #A3ADB4;
+    padding: 15px;
+    margin-top: 30px;
+}
 .home-section{
     /* border: 3px solid #67C2AC; */
     border-left: 10px solid #67C2AC;
