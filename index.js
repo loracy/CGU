@@ -31,8 +31,8 @@
                 <h4>起始</h4>
                 <div class="col-md-2">
                     <a class="link" href="(temporary)login-(1+2)/index.html">
-                        <p class="subTitle">（暫時）登入</p>
-                        <img src="source/Login.png" class="ui-img"/>
+                        <p class="subTitle-new">（暫時）登入</p>
+                        <img src="source/Login.png" class="ui-img-new"/>
                     </a>
                 </div>
             </div>
@@ -43,7 +43,7 @@
                 <div class="col-md-2">
                     <a class="link" href="home-(1+2)/index.html">
                         <p class="subTitle-new">正常首頁</p>
-                        <img src="source/Home-01.png" class="ui-img"/>
+                        <img src="source/Home-01.png" class="ui-img-new"/>
                     </a>
                     <br>
                     <div class="ps"><spin class="ps-title">備註:</spin><spin class="ps-content">第一張卡片的標題和btn內文字有做更改</spin></div>
@@ -69,8 +69,8 @@
                 </div>
                 <div class="col-md-2">
                     <a class="link" href="home-treatment-(1+2+3)/index.html">
-                        <p class="subTitle">您的療程</p>
-                        <img src="source/Home-treatment-01.png" class="ui-img"/>
+                        <p class="subTitle-new">您的療程</p>
+                        <img src="source/Home-treatment-01.png" class="ui-img-new"/>
                     </a>
                 </div>
                 <div class="col-md-2">
@@ -92,14 +92,14 @@
                 </div>
                 <div class="col-md-2">
                     <a class="link" href="daily-body-(1+2+keyboard)/index.html">
-                        <p class="subTitle">身體狀況(登記)</p>
-                        <img src="source/Daily-body-01.png" class="ui-img"/>
+                        <p class="subTitle-new">身體狀況(登記)</p>
+                        <img src="source/Daily-body-01.png" class="ui-img-new"/>
                     </a>
                 </div>
                 <div class="col-md-2">
                     <a class="link" href="daily-body-saved/index.html">
-                        <p class="subTitle">身體狀況(儲存)</p>
-                        <img src="source/Daily-body-saved.png" class="ui-img"/>
+                        <p class="subTitle-new">身體狀況(儲存)</p>
+                        <img src="source/Daily-body-saved.png" class="ui-img-new"/>
                     </a>
                 </div>
                 <div class="col-md-2">
@@ -118,12 +118,6 @@
                     <a class="link" href="daily-diet-edit/index.html">
                         <p class="subTitle">飲食紀錄(編輯)</p>
                         <img src="source/Daily-diet-edit.png" class="ui-img"/>
-                    </a>
-                </div>
-                <div class="col-md-2">
-                    <a class="link new" href="daily-exercise-(1+2)/index.html">
-                        <p class="subTitle"><br>運動情況(default+normal)</p>
-                        <img src="source/Daily-exercise-02.png" class="ui-img"/>
                     </a>
                 </div>
             </div>
@@ -152,8 +146,8 @@
                 </div>
                 <div class="col-md-2">
                     <a class="link" href= "survey-(1+2+keyboard+whole)/index.html">
-                        <p class="subTitle">填寫問卷</p>
-                        <img src="source/Survey-01.png" class="ui-img"/>
+                        <p class="subTitle-new">填寫問卷</p>
+                        <img src="source/Survey-01.png" class="ui-img-new"/>
                     </a>
                 </div>
             </div>
