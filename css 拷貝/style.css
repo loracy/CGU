@@ -1,0 +1,102 @@
+
+body{
+    padding: 15px;
+    background-color: rgb(240, 240, 240) ;
+}
+h4{
+    color: #767D82;
+    padding-bottom: 10px;
+}
+.subTitle{
+    color: #4F6C8D;
+}
+
+
+.login-section{
+    border-left: 10px solid #A3ADB4;
+    padding: 15px;
+    margin-top: 30px;
+}
+.home-section{
+    /* border: 3px solid #67C2AC; */
+    border-left: 10px solid #67C2AC;
+    padding: 15px;
+    margin-top: 30px;
+}
+.daily-section{
+
+    border-left: 10px solid #4F6C8D;
+    padding: 15px;
+    margin-top: 30px;
+}
+.component-section{
+    
+    border-left: 10px solid #A3ADB4;
+    padding: 15px;
+
+}
+.healthyInfo-section{
+    border-left: 10px solid #4F6C8D;
+    padding: 15px;
+    margin-top: 30px;
+}
+.user-section{
+    
+    border-left: 10px solid #4F6C8D;
+    padding: 15px;
+    margin-top: 30px;
+}
+
+.ui-img{
+    height:150px; 
+    box-shadow: 0 1px 6px 0 rgba(0,0,0,0.20);
+}
+
+.link{
+    color: #144669;
+}
+
+.new>.ui-img{
+    height:150px; 
+    box-shadow: 1px 3px 12px 0 rgba(7, 202, 144, 0.5);
+}
+
+.new>.subTitle{
+    color:#67C2AC;
+}
+
+@keyframes shine {
+    from {
+        background: rgba(208, 31, 46, 0.9);
+    }
+    to {
+        background: #67C2AC;
+    }
+}
+.new>.subTitle:before{
+    content: 'new';
+    padding: .1em .5em;
+    background: rgba(208, 31, 46, 0.9);
+    border-radius: 6px;
+    width: 24px;
+    height: 10px;
+    color: #FFFFFF;
+    animation-name: shine;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+
+.ps{
+    margin-top:10px;
+    padding: 5px;
+    background-color: rgb(250,250,250);
+    border-radius: 10px;
+}
+.ps-title{
+    color: #767D82;
+    font-weight: 500;
+}
+.ps-content{
+    color: #A3ADB4;
+}
+/* edit~~~~~ */
